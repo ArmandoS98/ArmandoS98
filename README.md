@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Armando Santos
+# ![https://developer.android.com/](https://github.com/ArmandoS98/ArmandoS98/blob/main/android_icon.png) Hello, my name is Armando Santos
 ### Freelance Android engineer
 
 I'm a professional software developer for more than ten years.
