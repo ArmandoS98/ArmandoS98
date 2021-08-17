@@ -1,8 +1,6 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Armando Santos
 ### Freelance Android engineer
 
-![https://github.com/ArmandoS98](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
 I'm a professional software developer for more than ten years.
 
 In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
