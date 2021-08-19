@@ -22,4 +22,3 @@ In 2018 I won the [**WorldSkills**](https://worldskills.org/) Guatemala competit
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
-https://img.shields.io/badge/C-C%23-blue
