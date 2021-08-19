@@ -1,5 +1,5 @@
 # ![https://developer.android.com/](https://github.com/ArmandoS98/ArmandoS98/blob/main/android_icon.png) Hello, my name is Armando Santos
-### Freelance Android engineer
+### Freelance Android Engineer
 
 I've been a Professional Software Developer for over four years. 
  
