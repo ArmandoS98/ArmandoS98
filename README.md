@@ -1,9 +1,11 @@
 # ![https://developer.android.com/](https://github.com/ArmandoS98/ArmandoS98/blob/main/android_icon.png) Hello, my name is Armando Santos
 ### Freelance Android engineer
 
-I'm a professional software developer for the last four years.
-
-In 2018 I won the [**WorldSkills**](https://worldskills.org/) Guatemala competition, in the specialty of Mobile Application Development with Android, since then I have been very active within the development community.
+I've been a Professional Software Developer for over four years. 
+ 
+My greatest achievement -> In 2018, I won the [**WorldSkills**](https://worldskills.org/) Competition here in Guatemala, which was focused on Mobile Apps Development using Android Technology. I've also been really active within our Development Community.  
+ 
+-"Talk is cheap. Show me the code!"
 
 
 ## Skills:
