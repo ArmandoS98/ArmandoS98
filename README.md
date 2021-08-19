@@ -18,19 +18,3 @@ In 2018 I won the [**WorldSkills**](https://worldskills.org/) Guatemala competit
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
-
-## Find me at:
-
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCyIRGa5mL1Eg2a7WwRzfGQA)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/U3KjjfUfUJ)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-
-
-## Contact me:
-
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
