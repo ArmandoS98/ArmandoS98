@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.armandos98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.armandos98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/armando-santos-456740189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/armando-santos-456740189/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armando-santos-456740189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/armando-santos-456740189/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10172525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10172525" height="30" width="40" /></a>
 <a href="https://fb.com/armando santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armando santos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyirga5ml1eg2a7wwrzfgqa/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyirga5ml1eg2a7wwrzfgqa/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyIRGa5mL1Eg2a7WwRzfGQA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyirga5ml1eg2a7wwrzfgqa/videos" height="30" width="40" /></a>
 <a href="https://discord.gg/7939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7939" height="30" width="40" /></a>
 </p>
 
