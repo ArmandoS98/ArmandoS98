@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Armando Santos</h1>
 <h3 align="center">A passionate Android developer from Guatemala</h3>
 
+I've been a Professional Software Developer for over four years. 
+ 
+My greatest achievement -> In 2018, I won the [**WorldSkills**](https://worldskills.org/) Competition here in Guatemala, which was focused on Mobile Apps Development using Android Technology. I've also been really active within our Development Community.  
+ 
+-"Talk is cheap. Show me the code!"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armandos98&label=Profile%20views&color=0e75b6&style=flat" alt="armandos98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armandos98" alt="armandos98" /></a> </p>
